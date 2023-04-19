@@ -1,0 +1,5 @@
+train: E:\Python\DeepLearning\Image Detection\Cat and Dog detection using YOLOV5\train
+val: E:\Python\DeepLearning\Image Detection\Cat and Dog detection using YOLOV5\valid
+test: E:\Python\DeepLearning\Image Detection\Cat and Dog detection using YOLOV5\test
+nc: 2
+names: ['cat', 'dog']

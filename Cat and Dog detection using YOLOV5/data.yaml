@@ -1,0 +1,12 @@
+train: E:\Python\DeepLearning\Image Detection\Cat and Dog detection using YOLOV5\train
+val: E:\Python\DeepLearning\Image Detection\Cat and Dog detection using YOLOV5\valid
+test: E:\Python\DeepLearning\Image Detection\Cat and Dog detection using YOLOV5\test
+nc: 2
+names: ['Cat', 'Dog']
+
+roboflow:
+  workspace: world-university-of-bangladesh
+  project: cat-and-dog-detection-for-ml-engineering
+  version: 2
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/world-university-of-bangladesh/cat-and-dog-detection-for-ml-engineering/dataset/2
